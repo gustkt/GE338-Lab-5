@@ -10,6 +10,6 @@
 | ROI                        | shapefile             | ขอบเขตพื้นที่ศึกษา    | -              |
 
 
-[**การดึงตำแหน่งท่าเรือจาก OSM**](https://gustkt.github.io/GE338-Lab-5/proposal/East_Port_OSM.png)
+[**หลักฐานการดึงตำแหน่งท่าเรือจาก OSM**](https://gustkt.github.io/GE338-Lab-5/proposal/East_Port_OSM.png)
 
 
