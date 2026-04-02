@@ -10,4 +10,9 @@
 | ROI                        | shapefile             | ขอบเขตพื้นที่ศึกษา    | -              |
 
 
+**การดึงตำแหน่งท่าเรือจา่ก OSM**
+
+<img width="718" height="373" alt="Screenshot 2026-04-02 205705" src="https://github.com/user-attachments/assets/931a6f7e-b8d0-4241-9757-0bd1a66b3099" />
+
+
 
